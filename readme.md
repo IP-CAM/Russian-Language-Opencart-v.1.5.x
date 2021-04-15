@@ -1,3 +1,49 @@
+# [RUSSIAN LANGUAGE FILES FOR OPENCART] (http://unglued.ru)
+
+I present to your attention a translation of one of the best online stores * OpenCart *
+
+It is free and free translation and it is constantly in the pre-transfer stage :). But I hope for any activity of OpenCart Comunity in helping and re-fixing. I do not engage in the translation of texts as such, just according to the development of numerous stores, I translate here, then everything that comes across Galaza.
+
+At the moment, this is the most complete translation, so I ask you. Do not forget to focus and empty back your versions! I will also be glad if you replenish the bagtrack with your comments and wishes.
+
+## Installation
+1. Just download and put the `russian` next` russian folders` Ways are similar to the structure of the downloaded archive.
+2. Go to the admin in the "System" -> "Localization" menu -> "Languages".
+3. In the window that opens, click the "INSERT" button in the upper right corner
+4. Fill the fields as follows:
+* Language Name * - Russian
+* Code * - RU
+* Locale * - RU_RU.UTF-8, RU_RU, RU-GB, RUSSIAN
+* Image * - ru.png
+* Directory * - Russian
+* FILENAME * - RUSSIAN
+* Status * - Enabled
+5. Click the "Save" button
+6. In the "System" menu -> "Settings" click "Edit" opposite its store
+7. In the "Local" tab, adjust the points "Language" and "Administration Language" "Russian"
+8. Click "Save"
+9. Further act in circumstances, everything should be in Russian. If not, split and go to the admin.
+10. You can also give English from the system if you do not prepare the multilingual site so as not to prevent.
+11. If the showcase stopped loading or the language remained English just remove cookies.
+
+## Additional files
+`zones_rus.sql` - Translation of regions and regions for Russia
+`Metro_Table.sql` - list of Moscow metro stations with reference to` zone_id` Moskovsky region (just if you need someone)
+
+## List of changes
+### 03/12/12
+* Updated translation to version v1.5.2.2
+
+### 11.01.12
+* Updated translation to version v1.5.2
+* Deleted unnecessary and outdated linguistic files
+* Most of the files are fully reworked, outdated locals are cleaned.
+
+### 11/30/11
+* Added some missing files and lines
+* 
+-----
+
 # [Русские языковые файлы для OpenCart](http://unglued.ru)
 
 Представляю вашему вниманию перевод одного из самых лучших интернет магазинов *OpenCart*
